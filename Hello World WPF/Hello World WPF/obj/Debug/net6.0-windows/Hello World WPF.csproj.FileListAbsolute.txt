@@ -1,0 +1,21 @@
+D:\PBKK\Hello World WPF\Hello World WPF\bin\Debug\net6.0-windows\Hello World WPF.exe
+D:\PBKK\Hello World WPF\Hello World WPF\bin\Debug\net6.0-windows\Hello World WPF.deps.json
+D:\PBKK\Hello World WPF\Hello World WPF\bin\Debug\net6.0-windows\Hello World WPF.runtimeconfig.json
+D:\PBKK\Hello World WPF\Hello World WPF\bin\Debug\net6.0-windows\Hello World WPF.dll
+D:\PBKK\Hello World WPF\Hello World WPF\bin\Debug\net6.0-windows\Hello World WPF.pdb
+D:\PBKK\Hello World WPF\Hello World WPF\obj\Debug\net6.0-windows\Hello World WPF.csproj.AssemblyReference.cache
+D:\PBKK\Hello World WPF\Hello World WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\PBKK\Hello World WPF\Hello World WPF\obj\Debug\net6.0-windows\App.g.cs
+D:\PBKK\Hello World WPF\Hello World WPF\obj\Debug\net6.0-windows\Hello World WPF_MarkupCompile.cache
+D:\PBKK\Hello World WPF\Hello World WPF\obj\Debug\net6.0-windows\Hello World WPF_MarkupCompile.lref
+D:\PBKK\Hello World WPF\Hello World WPF\obj\Debug\net6.0-windows\MainWindow.baml
+D:\PBKK\Hello World WPF\Hello World WPF\obj\Debug\net6.0-windows\Hello World WPF.g.resources
+D:\PBKK\Hello World WPF\Hello World WPF\obj\Debug\net6.0-windows\Hello World WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBKK\Hello World WPF\Hello World WPF\obj\Debug\net6.0-windows\Hello World WPF.AssemblyInfoInputs.cache
+D:\PBKK\Hello World WPF\Hello World WPF\obj\Debug\net6.0-windows\Hello World WPF.AssemblyInfo.cs
+D:\PBKK\Hello World WPF\Hello World WPF\obj\Debug\net6.0-windows\Hello World WPF.csproj.CoreCompileInputs.cache
+D:\PBKK\Hello World WPF\Hello World WPF\obj\Debug\net6.0-windows\Hello World WPF.dll
+D:\PBKK\Hello World WPF\Hello World WPF\obj\Debug\net6.0-windows\refint\Hello World WPF.dll
+D:\PBKK\Hello World WPF\Hello World WPF\obj\Debug\net6.0-windows\Hello World WPF.pdb
+D:\PBKK\Hello World WPF\Hello World WPF\obj\Debug\net6.0-windows\Hello World WPF.genruntimeconfig.cache
+D:\PBKK\Hello World WPF\Hello World WPF\obj\Debug\net6.0-windows\ref\Hello World WPF.dll
